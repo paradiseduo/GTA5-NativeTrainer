@@ -7,7 +7,7 @@
 
 ### 使用方法：
 * 将文件（dinput8.dll，NativeTrainer.asi，NativeTrainerConfig.xml，ScriptHookV.dll）解压到游戏根目录时请全部解压覆盖，完成后进入游戏按F4即可呼出修改器
-* KWVehicleVanishingPatch.asi为载具防消失补丁，可以根据情况自行选择是否添加（若添加后程序闪退，删除即可）
+* TrainerV.asi, trainerv.ini为载具防消失补丁，可以根据情况自行选择是否添加（若添加后程序闪退，删除即可）
 
 ### 注意：
 * 遇到DLC载具刷不出的，请检查自己的游戏版本是否是最新的，正版更新到最新即可，破解版的请更新最新破解+DLC包
